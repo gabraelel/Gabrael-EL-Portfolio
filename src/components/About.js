@@ -1,0 +1,15 @@
+// Import Assets
+import profile from '../assets/profile.png';
+
+const About = () => {
+    return (
+        <section className='about'>
+            <h2>About Me</h2>
+            <p>
+                Greetings, I am the CEO of <strong>TURFIN,LLC and DECENTRALIZED ENTERTAINMENT</strong> and April 14th, 2021 graduate of Grambling State University with a Bachelor of Science in Marketing, as well as an 2021 UC Berkeley Haas graduate from the Blockchain Technologies and Applications for Business program, as well as a 2018 graduate of SAE Expression College with a Diploma in Music Business. My goal is to educate and develop and introduce new decentralized business practices for both large and small businesses and creative artists with my strong understanding and application skills of how to apply fundamental and advanced blockchain, marketing, business, management, entrepreneurial concepts, and practices with Web 3.0 businesses models as a service. It is important to me to demonstrate my knowledge of Social media KPI, reading, writing, and understanding of smart contract development while Introducing my training and education in business fundamentals, Social media KPI’s with a strong entertainment background in strategic marketing, artist development, management, and Publishing & Licensing and adding my practical contemporary media production skills in video, web design, and graphic design skills for a variety of entry-level positions in Blockchain, Web 3.0. I have a working knowledge of Blockchain Technological & Management  with the EVM (Ethereum Virtual Machine), Github, Hardhat, Solidity, Smart Contract Development, Node.js,  Remix, VS Code, Truffle, Ganache, Terminal, Fleek, Github, Metamask,  NFTs,  Liquidity Pools,  DAOs,  DeFi Protocols as well as knowledge of Rollups and different layer two scaling solutions. It is important that I bring leadership to a team environment and add to the creative process of developing a decentralized project as an analyst and blockchain Senior Consultant knowledge. Let me lead or create or train your department in decentralized strategic phases developing, and implementing blockchain digital assets solutions using private or public blockchains. While at UC Berkeley Hass business school I was prepared and trained in managing the process of organizing full-stack blockchain solutions across multiple protocols and asset types using interoperability. My goal is to bring my talent to a creative team environment by creating and leveraging cloud computing, micro-services, and integration standards for blockchain implementation. Finally organizing and developing POCs (proofs-of-concept) and pilot projects with a team to demonstrate a specific technology's applicability, performance,  interoperability,  and scalability for small and large businesses worldwide. Vendor Management, Project Scheduling, Technical skills, Conceptual skills, and Decision-making skills. Problem Solving, Time Management are additional skills used in my strategic planning education.
+            </p>
+        </section>
+    );
+}
+
+export default About;
