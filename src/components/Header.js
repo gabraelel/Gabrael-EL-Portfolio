@@ -10,7 +10,7 @@ const Header = () => {
                 <h1>Hi, I'm Gabrael EL</h1>
                 <p>Blockchain Developer</p>
                 <p>Blockchain As A Service Consultant</p>
-                <button className='button'>Get In Touch</button>
+                <button><a href="mailto:gabraelel@gmail.com?subject=just-a-subject">Let's Work Today!</a></button>
             </div>
         </section>
     );
